@@ -3,7 +3,7 @@
 #!/bin/bash
 
 # === Configuration ===
-BASE_URL="http://ec2-54-254-181-50.ap-southeast-1.compute.amazonaws.com:8080"
+BASE_URL="http://change-to-targeted-url"
 PATHS=("/get" "/post")
 DELAYS=(0.25 0.5 1 2 3 5)
 
