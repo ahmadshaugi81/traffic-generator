@@ -3,7 +3,7 @@
 #!/bin/bash
 
 # === Config ===
-BASE_URL="http://ec2-54-254-181-50.ap-southeast-1.compute.amazonaws.com:8080"
+BASE_URL="http://change-to-targeted-url"
 DELAYS=(0.25 0.5 1 2 3 5)
 XFF_IPS=(
   23.14.89.201
